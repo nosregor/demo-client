@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: demoClient
+grpc:
+  server:
+    port: 50052
+
